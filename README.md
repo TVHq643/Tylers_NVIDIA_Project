@@ -9,11 +9,11 @@ Uses a detectnet nurial network to identefy if a x-ray contains a fracture. Ment
 The nurial network is trained on x ray images and is programmed to decect bone fractures in those images. When it is trained, it learns patterns in what images are fractured and which are not, letting it identify fractures in a patint x ray.
 
 
-##Running this project
+## Running this project
 
 - Go to GitHub and download the model
 
--set variables (NET=model/check2phase)(DATA=data/dataset) 
+- Set variables (NET=model/check2phase)(DATA=data/dataset) 
 
 - Go into the Test folder and select an image
 

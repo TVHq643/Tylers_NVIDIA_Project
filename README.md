@@ -1,12 +1,10 @@
 Bone Fracture Detector
 
-Uses a detectnet nurial network to identefy if a x-ray contains a fracture. Ment to be eventuly used to identefy fractures in ERs faster and more efficiantly, allowing doctors to spend more time treating the patient directly. 
-
-![add image descrition here](direct image link here)
+Uses a detectnet neural network to identify if a x-ray contains a fracture. Made to be eventually used to identify fractures in ERs faster and more efficiently, allowing doctors to spend more time treating the patient directly. 
 
 ## The Algorithm
 
-The nurial network is trained on x ray images and is programmed to decect bone fractures in those images. When it is trained, it learns patterns in what images are fractured and which are not, letting it identify fractures in a patint x ray.
+The detectnet neural network is trained on x ray images from a kaggle dataset (https://www.kaggle.com/datasets/osamajalilhassan/bone-fracture-dataset) and is programmed to identify bone fractures in those images. When it is trained, it learns patterns in what images are fractured and which are not, letting it identify fractures in a patient x ray.
 
 
 ## Running this project

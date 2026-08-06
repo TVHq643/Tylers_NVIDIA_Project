@@ -12,7 +12,7 @@ The detectnet neural network is trained on x ray images from a kaggle dataset (h
 
 - Go to GitHub and download the model
 
-- Set variables (NET=model/checkmodel2phase)(DATA=data/dataset) 
+- Set variables (NET=models/checkmodel2phase)(DATA=data/dataset) 
 
 - Go into the Test folder and select an image
 

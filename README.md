@@ -13,7 +13,7 @@ The nurial network is trained on x ray images and is programmed to decect bone f
 
 - Go to GitHub and download the model
 
-- Set variables (NET=model/check2phase)(DATA=data/dataset) 
+- Set variables (NET=model/checkmodel2phase)(DATA=data/dataset) 
 
 - Go into the Test folder and select an image
 

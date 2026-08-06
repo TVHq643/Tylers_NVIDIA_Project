@@ -1,4 +1,4 @@
-Bone Fracture Detector
+## Bone Fracture Detector
 
 Uses a detectnet neural network to identify if a x-ray contains a fracture. Made to be eventually used to identify fractures in ERs faster and more efficiently, allowing doctors to spend more time treating the patient directly. 
 
